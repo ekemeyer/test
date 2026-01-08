@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "01851058-ccf4-4302-937f-feda2c1d54c1": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-259-tm720503/download",
+      "duration": 3458,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-08T19:43:14.379Z",
+  "created_by": "ekemeyer",
+  "label": "First Anniversary of the New Jersey Public Broadcasting Authority Special",
+  "updated_at": "2026-01-08T19:43:14.379Z",
+  "updated_by": "ekemeyer",
+  "rights_statement": ""
+}
