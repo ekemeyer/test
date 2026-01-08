@@ -7,6 +7,29 @@
           "text": ""
         }
       ]
+    },
+    {
+      "uuid": "25c09c1c-5b77-4155-882a-1e68df7a3ad0",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Test",
@@ -18,6 +41,6 @@
   "slug": "test",
   "created_at": "2026-01-08T19:47:55.855Z",
   "created_by": "ekemeyer",
-  "updated_at": "2026-01-08T19:47:55.855Z",
+  "updated_at": "2026-01-08T19:48:31.001Z",
   "updated_by": "ekemeyer"
 }
